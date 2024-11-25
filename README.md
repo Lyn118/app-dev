@@ -6,8 +6,7 @@ A Shop for Killers is a South Korean crime-thriller drama about a mysterious sho
 *Genre*: Crime, Thriller, Drama  
 *Episodes*: 16  
 *Main Characters*:
-- *Jin Seok*: A troubled man caught up in the world of hired killers.
-- *Hyeon*: A mysterious shopkeeper who offers deadly services.
+- *Jeong Ji-an*: A skilled assassin with a dark past, navigating through the dangerous world of hired killers.
 
 ### Why I Love This:
 - The plot is gripping and unpredictable, with intense action and moral dilemmas.
