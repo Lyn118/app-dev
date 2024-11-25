@@ -31,8 +31,9 @@ From is a suspenseful horror series that follows a group of people trapped in a 
 *Genre*: Horror, Mystery, Thriller  
 *Episodes*: 10  
 *Main Characters*:
-- *Jim*: A former detective who becomes a key figure in trying to escape the town.
-- *Tabitha*: A resident of the town who plays a crucial role in the group’s survival.
+- *Boyd Stevens*: The town sheriff and de facto leader, Boyd is determined to protect the residents from the mysterious creatures while uncovering the truth about the town.
+- *Tabitha Matthews*: A newcomer to the town whose family becomes central to the unfolding mystery. She plays a key role in investigating the town’s eerie history.
+- *Jim Matthews*: Tabitha's husband, who uses his analytical skills to help uncover clues about the strange phenomena in the town.
 
 ### Why I Love This:
 - The eerie atmosphere and suspense keep you on edge.
